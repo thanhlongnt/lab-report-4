@@ -14,7 +14,7 @@ From the main directory on ieng6, I typed the command `git clone https://github.
 
 ## Step 6: running the tests
 
-![Image](lab7 failed tests.png)
+![Image](lab 7 failed tests.png)
 
 From the main directory on ieng6, I typed the command `cd lab7` which changed my directory to the repo that I just cloned. Then I typed `bash test.sh` to run the tests, which shows to fail.
 

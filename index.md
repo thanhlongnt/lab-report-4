@@ -18,7 +18,7 @@ In the lab 7 directory, I typed the command `vim ListExamples.java`, which opens
 
 To fix the method, I first navigated down to the problem typing the vim command `43j` which brought my cursor down 43 lines.
 
-I then moved my cursor to the right by pressing `h` 6 times
+I then moved my cursor to the left by pressing `h` 6 times
 
 I then pressed the `x` key to remove the character `1` from `index1`.
 

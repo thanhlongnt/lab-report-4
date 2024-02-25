@@ -2,13 +2,19 @@
 
 ## Step 4: Logging into ieng6
 
+![Image](Login to ieng6.png)
+
 From my local main directory, I typed the command `ssh tnguyentrong@ieng6.ucsd.edu`, which logged me into the virtual machine ieng6 using the secret key we set up in previous labes.
 
 ## Step 5: clone forked lab7
 
+![Image](git clone lab7.png)
+
 From the main directory on ieng6, I typed the command `git clone https://github.com/thanhlongnt/lab7`, which then cloned all the files from my forked repo. 
 
 ## Step 6: running the tests
+
+![Image](lab7 successful test.png)
 
 From the main directory on ieng6, I typed the command `cd lab7` which changed my directory to the repo that I just cloned. Then I typed `bash test.sh` to run the tests, which shows to fail.
 

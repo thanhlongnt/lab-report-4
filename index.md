@@ -4,7 +4,7 @@
 
 ![Image](Login to ieng6.png)
 
-From my local main directory, I typed the command `ssh tnguyentrong@ieng6.ucsd.edu`, which logged me into the virtual machine ieng6 using the secret key we set up in previous labes.
+From my local main directory, I typed the command `s s h <space> t n g u y e n t r o n g @ i e n g 6 . u c s d . e d u`, which logged me into the virtual machine ieng6 using the secret key we set up in previous labes.
 
 ## Step 5: clone forked lab7
 

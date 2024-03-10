@@ -10,7 +10,7 @@ From my local main directory, I typed the command `ssh tnguyentrong@ieng6.ucsd.e
 
 ![Image](git clone lab7.png)
 
-From the main directory on ieng6, I typed the command `git@github.com:thanhlongnt/lab7.git`, which then cloned all the files from my forked repo. 
+From the main directory on ieng6, I typed the command `git clone git@github.com:thanhlongnt/lab7.git`, which then cloned all the files from my forked repo. 
 
 ## Step 6: running the tests
 

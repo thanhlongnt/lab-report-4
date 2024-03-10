@@ -55,6 +55,6 @@ I pressed the `<up>` arrow once to retrieve the bash command that I used to run 
 
 I typed the command `git add ListExamples.java` to add the file to the stage. Then I typed `git commit -m "ListExamples.java bug fixed` to commit the changes I made. 
 
-![Image](git push lab7)
+![Image](git push lab7.png)
 
 I then typed the command `git push` to push my changes to the forked repo

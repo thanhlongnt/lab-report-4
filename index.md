@@ -47,7 +47,7 @@ I then typed `:wq` to save and quit from the vim editor, which brought me back t
 
 ![Image](lab7 successful test.png)
 
-I pressed the `<up>` arrow twice (because my last two commands were `vim ListExamples.java` and `bash test.sh`) to retrieve the `bash test.sh` command that I used to run the first test. Then I pressed `<enter` to run the test, which displayed that all tests passed.
+I pressed the `<up>` arrow twice (because my last two commands were `vim ListExamples.java` and `bash test.sh`) to retrieve the `bash test.sh` command that I used to run the first test. Then I pressed `<enter>` to run the test, which displayed that all tests passed.
 
 ## Step 9: Commiting and pushing to forked repo
 

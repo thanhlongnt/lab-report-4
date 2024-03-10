@@ -57,4 +57,4 @@ I typed the command `git add ListExamples.java` to add the file to the stage. Th
 
 ![Image](git push lab7.png)
 
-I then typed the command `git push` to push my changes to the forked repo
+I then typed the command `git push` to push my local changes to the forked repo on github

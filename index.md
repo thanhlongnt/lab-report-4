@@ -49,9 +49,12 @@ I then typed `:wq` to save and quit from the vim editor, which brought me back t
 
 I pressed the `<up>` arrow once to retrieve the bash command that I used to run the first test. Then I pressed `<enter` to run the test, which displayed that all tests passed.
 
-## Step 9: Commiting to forked repo
+## Step 9: Commiting and pushing to forked repo
 
 ![Image](git commit.png)
 
 I typed the command `git add ListExamples.java` to add the file to the stage. Then I typed `git commit -m "ListExamples.java bug fixed` to commit the changes I made. 
 
+![Image](git push lab7)
+
+I then typed the command `git push` to push my changes to the forked repo
